@@ -10,3 +10,7 @@ Un proyecto sencillo donde se busca promover la lectura
 3 Modificacion o Creacion de archivos
 
 4 Eliminacion de archivos o correccion de errores
+
+### Autor
+
+Brayan Rojas
